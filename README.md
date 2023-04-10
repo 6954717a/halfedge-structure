@@ -11,26 +11,27 @@
 实现三维物体mesh存储及第一版功能设计(2023/4/9-4/10 08:59)
 
 存储类：
-Point
+
+### Point
 存储信息：
 实现功能：
 
-MyVector
+### MyVector
 存储信息：
 实现功能：
 
-MyVert
+### MyVert
 存储信息：
 实现功能：
 
-MyHalfedge
+### MyHalfedge
 存储信息：
 实现功能：
 
-MyPolyFace
+### MyPolyFace
 存储信息：
 实现功能：
 
-PolyMesh
+### PolyMesh
 存储信息：
 实现功能：
